@@ -1,0 +1,12 @@
+{
+  "name": "kelompok4-pbp",
+  "version": "1.0.0",
+  "description": "Web Server Kelompok 4 PBP",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.21.2"
+  }
+}
